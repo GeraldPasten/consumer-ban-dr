@@ -2,7 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: ms-customer-consultation
+  annotations:
+    backstage.io/techdocs-ref: dir:./docs
   description: Retrieve API operations
+  
 spec:
   type: openapi
   lifecycle: production
