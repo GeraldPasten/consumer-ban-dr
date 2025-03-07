@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: ms-customer-consultation
   annotations:
-    backstage.io/techdocs-ref: dir:./docs
+    backstage.io/techdocs-ref: dir: /
   description: Retrieve API operations
   
 spec:
