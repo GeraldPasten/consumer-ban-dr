@@ -1,11 +1,12 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
-  name: documented-component
-  title: Example Docs
-  description: A Service with TechDocs documentation
+  title: ms-customer-consultation
+  name: ms-customer-consultation
+  description: Retrieve API operations
   annotations:
     backstage.io/techdocs-ref: dir:.
+  
 spec:
   type: openapi
   lifecycle: production
