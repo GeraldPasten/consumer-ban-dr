@@ -1,7 +1,0 @@
-site_name: "ms-customer-consultation"
-nav:
-  - Home: index.md
-  - Guide: other-doc.md
-theme:
-  name: "mkdocs"
-docs_dir: "docs"
