@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: component
+kind: Component
 metadata:
   title: ms-customer-consultation
   name: ms-customer-consultation
