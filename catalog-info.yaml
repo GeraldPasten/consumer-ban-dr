@@ -6,6 +6,7 @@ metadata:
   description: Retrieve API operations
   annotations:
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: hello
   
 spec:
   type: openapi
