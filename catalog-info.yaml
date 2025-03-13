@@ -9,7 +9,6 @@ metadata:
     backstage.io/kubernetes-id: hello
     gitlab.com/project-id: "68000710"
 
-  
 spec:
   type: openapi
   lifecycle: production
